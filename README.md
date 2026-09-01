@@ -55,7 +55,10 @@
 <div align="center">
 
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBrasburg&repo=tandem&theme=dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBrasburg&repo=tandem_connection2026&theme=dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/IlanBuss0/Tandem_Proyect_2026---BACKEND">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IlanBuss0&repo=Tandem_Proyect_2026---BACKEND&theme=dark&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiasBrasburg&repo=WebFarmaciaMiguetti&theme=dark&hide_border=true&bg_color=0d1117" />
@@ -63,7 +66,10 @@
 
 </div>
 
-**[Tándem](#)** — Proyecto real construido con Node.js, Express, PostgreSQL y Socket.io, donde trabajé principalmente en el backend (API, autenticación, lógica de negocio) y también colaboré en el frontend.
+**[Tándem — Frontend](https://github.com/MatiasBrasburg/tandem_connection2026)** — Repo del frontend de Tándem.
+`tandem_connection2026`
+
+**[Tándem — Backend](https://github.com/IlanBuss0/Tandem_Proyect_2026---BACKEND)** — Proyecto real construido con Node.js, Express, PostgreSQL y Socket.io, donde trabajé principalmente en el backend (API, autenticación, lógica de negocio) y también colaboré en el frontend.
 `Node.js` `Express` `PostgreSQL` `Socket.io`
 
 **[WebFarmaciaMiguetti](#)** — Migración de un sistema de farmacia de Access a .NET Core MVC + PostgreSQL, desplegado en Railway. Diseñado con UX de alto contraste y botones grandes pensado para usuarios mayores.
@@ -76,7 +82,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MatiasBrasburg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasBrasburg&theme=dark&hide_border=true&background=0d1117" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=MatiasBrasburg&theme=dark&hide_border=true&background=0d1117" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBrasburg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
 
