@@ -10,7 +10,7 @@
 
 - 🎓 Cursando el último año de Informática en ORT Almagro
 - 💻 Backend developer — Node/Express y .NET Core como stack principal, con manejo de frontend cuando el proyecto lo requiere
-- 🏗️ Trabajando en **Tándem**, un proyecto en equipo real donde estoy a cargo principalmente del backend y también metí mano en el frontend
+- 🏗️ Trabajando en **Tándem**, un proyecto en equipo real donde estoy a cargo principalmente del backend y también me involucre en el frontend
 - 🩺 Modernicé un sistema de farmacia (Access legacy → .NET Core MVC + PostgreSQL), en producción real
 - 📍 Buenos Aires, Argentina
 
