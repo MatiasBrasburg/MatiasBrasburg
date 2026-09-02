@@ -28,6 +28,10 @@
 
 <br><br>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
@@ -40,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatiasBrasburg&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MatiasBrasburg&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=4"/>
 
 </div>
 
