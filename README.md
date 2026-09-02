@@ -40,33 +40,19 @@
 
 <br>
 
-## 🏆 Trofeos
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatiasBrasburg&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=4"/>
+<img src="https://img.shields.io/github/followers/MatiasBrasburg?style=for-the-badge&logo=github&color=38bdf8&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/MatiasBrasburg?style=for-the-badge&logo=github&color=38bdf8&labelColor=0d1117&label=STARS"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMatiasBrasburg&color=38bdf8"/>
 
 </div>
 
 <br>
 
-## 📊 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatiasBrasburg&theme=react-dark&hide_border=true&bg_color=0d1117&area=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatiasBrasburg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-
-</div>
-
-<br>
-
-<!-- 🐍 Snake animation: se ve acá una vez que la configures (instrucciones abajo del README) -->
+<!-- 🐍 Snake animation: se ve acá una vez que la configures (instrucciones que te pasé antes) -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/MatiasBrasburg/MatiasBrasburg/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
